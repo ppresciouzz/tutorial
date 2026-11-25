@@ -1,0 +1,1 @@
+print ("TI A gacor")
